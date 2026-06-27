@@ -1,0 +1,13 @@
+We are looking for a Machine Learning Intern.
+
+Required Skills:
+Python
+Machine Learning
+Data Analysis
+SQL
+Pandas
+NumPy
+Scikit-learn
+Deep Learning
+Communication
+Problem Solving
